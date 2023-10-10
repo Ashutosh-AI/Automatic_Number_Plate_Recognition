@@ -1,5 +1,6 @@
 # Automatic_Number_Plate_Recognition
-![1](https://github.com/Ashutosh-AI/Automatic_Number_Plate_Recognition/assets/53949585/d1d23510-a58c-492c-a117-262fbad68029)
+
+![Interface](https://github.com/Ashutosh-AI/Automatic_Number_Plate_Recognition/assets/53949585/034927a8-a893-404e-aa5f-1ddaff74507b)
 
 **Automatic Number Plate Recognition (ANPR)** is the process of reading the characters on the plate with various optical character recognition (OCR) methods by separating the plate region on the vehicle image obtained from automatic plate recognition.
 
