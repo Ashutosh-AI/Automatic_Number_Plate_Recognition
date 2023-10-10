@@ -12,10 +12,6 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Project architecture](#project-architecture)
-  * [Some Result](#some-result)
-  * [Source](#source)
-  * [Licence](#licence)
-
 
 ## What will you learn from this project 
 
