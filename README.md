@@ -39,6 +39,8 @@ After installing the req libraries, you can run the project by main.py.
 
     python mainApp.py
 
+![runing_ss](https://github.com/Ashutosh-AI/Automatic_Number_Plate_Recognition/assets/53949585/d252cff7-97b6-4cbb-9705-f7afc37c7645)
+
 ## Project architecture
 
 The pipeline in the project is as follows:  
